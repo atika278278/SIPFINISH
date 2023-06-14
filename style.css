@@ -1,0 +1,41 @@
+*{
+    font-family: 'Times New Roman', Courier, monospace;
+    font-size: 15px;
+}
+html {
+    background-color: hsl(#ffffff);
+}
+#apps {
+    width: 760px;
+    height: auto;
+    margin: auto;
+    padding: 20px;
+    border-radius: 15px;
+    background-color: #e1d1d1;
+}
+h1 {
+    color: white;
+    font-size: 30px;
+    text-align: center;
+}
+#app {
+    width: 760px;
+    height: auto;
+    margin: auto;
+    padding: 20px;
+    border-radius: 15px;
+    background-color: #dfc8c8;
+}
+.first{
+    width: 760px;
+    height: auto;
+    margin: auto;
+    padding: 20px;
+    border-radius: 15px;
+    background-color: #dfd4d4;    
+}
+h4{
+    color: rgb(255, 255, 255);
+    font-size: 30px;
+    text-align:center;   
+}
